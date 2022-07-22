@@ -1,0 +1,39 @@
+body {
+	font-size: 14px;
+	font-family: 'Roboto-Regular',sans-serif;
+	font-weight: 400;
+	line-height: 2;
+	color: #212529;
+	background: #f0f3fb;
+	background: transparent;
+}
+section {
+	display: flex;
+}
+.avater-img{
+	height: 2.05in;
+	width: 1.65in;
+	display: inline;
+}
+.col-md-8 {
+	width: 70%;
+	display: inline-block;
+}
+.col-md-3 {
+	width: 3z0%;
+	display: inline-block;
+}
+section span {
+	border-bottom: 2px solid #333;
+	border-style: dotted;
+	margin-left: 10px;
+	font-family: arial;
+}
+table {
+	width: 100%;
+}
+table tr {
+	padding: 0;
+	margin: 0;
+	line-height: 0 ;
+}
